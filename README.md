@@ -1,2 +1,3 @@
 # simple_machine_learning
-This is an example of the application of probability theory and its elementary application in machine learning, using the example of a matrix game.
+Это пример применения теории вероятностей и ее элементарного применения в машинном обучении на примере матричных игр.
+Для запуска программы скачайте репозиторий и запустите файл ```main.py```
